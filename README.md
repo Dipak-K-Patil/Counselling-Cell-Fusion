@@ -1,6 +1,6 @@
-# FusionIIIT
+# Fusion
 
-**FusionIIIT** is the automation of various functionalities, modules and tasks of/for **PDPM Indian Institute of Information Technology, Design and Manufacturing, Jabalpur** being developed in `python3.8` and using `Django` Webframework.
+**Fusion** is the automation of various functionalities, modules and tasks of/for **BJS College Wagholi Pune** being developed in `python3.8` and using `Django` Webframework.
 
 ## System Configuration
 
