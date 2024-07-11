@@ -38,7 +38,7 @@ For contributing to this repository, you have to follow the guidelines given in 
 
 ### Downloading the Code
 
-* Go to (<https://github.com/FusionIIIT/Fusion>) and click on **Fork**
+* Go to (<https://github.com/Dipak-K-Patil/Counselling-Cell-Fusion/tree/main/Fusion-main>) and click on **Fork**
 * You will be redirected to *your* fork, `https://github.com/<your_user_name>/Fusion`
 * Open the terminal, change to the directory where you want to clone the **Fusion** repository
 * Clone your repository using `git clone https://github.com/<your_user_name>/Fusion`
@@ -57,14 +57,14 @@ For contributing to this repository, you have to follow the guidelines given in 
 
 ### Running server
 
-* Change directory to **FusionIIIT** `cd FusionIIIT`
+* Change directory to **Fusion** `cd FusionIIIT`
 * Run the server `python manage.py runserver`
 
 ## Working with Code \(Method 1\)
 
 ### Setting upstream
 
-* `git remote add upstream https://github.com/FusionIIIT/Fusion`
+* `git remote add upstream https://github.com/Fusion/Fusion`
   * Adds the remote repository (the repository you forked from) so that changes can be pulled from/pushed to it
 
 ### Switching branch
@@ -169,7 +169,7 @@ Safari 10 before testing.
 
 The project now supports notifications across all modules. To implement notifications in your module refer to the instructions below.
 
-* Create your notification class in [**`./FusionIIIT/notifications/views.py`**](https://github.com/FusionIIIT/Fusion/blob/master/FusionIIIT/notification/views.py) 
+* Create your notification class in [**`./Fusion/notifications/views.py`**](https://github.com/Dipak-K-Patil/Counselling-Cell-Fusion/tree/main/Fusion-main)
   ```
   def module_notif(sender, recipient, type):
     url='slug:slug'
